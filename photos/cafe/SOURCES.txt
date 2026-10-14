@@ -1,0 +1,15 @@
+Photos from Unsplash (Unsplash License: free to use, including commercially; no credit required, but we credit them in the footer).
+All photos were cropped and given one shared color grade.
+
+hero.jpg             Annie Spratt     photo-1731412236226-55d323c3b3a6
+fika-table.jpg       Annie Spratt     photo-1731412466156-8bd58dd12209
+counter.jpg          Annie Spratt     photo-1731412234135-0b7ca325e5b9
+kladdkaka.jpg        Annie Spratt     photo-1731412466156-8bd58dd12209 (close crop of the same table as fika-table.jpg)
+sockerkaka.jpg       Annie Spratt     photo-1731412236898-8fb496bc44bd
+kardemummabulle.jpg  Phil Hearing     photo-1769259179197-62b01aa18aa9
+kanelbulle.jpg       Carl Tronders    photo-1764608871512-f8909f6bbbcd
+flour.jpg            Carl Tronders    photo-1761222191837-4448599c09fc
+loaves.jpg           Carl Tronders    photo-1761222191837-4448599c09fc (close crop of the rye bag)
+meringues.jpg        Carl Tronders    photo-1761222191596-e59a4903f3d3
+
+View any original at https://images.unsplash.com/<id>

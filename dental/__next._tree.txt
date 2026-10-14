@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0lhq0dsfzebqv.css","style"]
+:HL["/_next/static/media/50a63ac321745c44.p.202x5_1668z2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/847c6af3f14ca2aa.p.2dv7oiayrgfo5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/19a5pxu7y-h7-.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"dental","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"k-fb3_KPiNw442JNNIm_r"}

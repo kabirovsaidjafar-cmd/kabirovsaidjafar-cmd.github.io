@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/0lhq0dsfzebqv.css","style"]
+:HL["/_next/static/chunks/1knz8nh9m6gwx.css","style"]
+:HL["/_next/static/media/1d50c17473a6c092.p.1xot8i7aa6x8-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f3f01dfc015e12-s.p.0xa2imhn0fp5k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fc566e733948aae3-s.p.31rnap-za66mk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"renovation","param":null,"prefetchHints":4192,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bathrooms","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"qbvdEVRdVFcxAqbxVkB6I"}
